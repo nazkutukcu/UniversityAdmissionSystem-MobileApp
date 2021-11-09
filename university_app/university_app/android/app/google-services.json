@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994514492387",
+    "project_id": "universityapp-fce7a",
+    "storage_bucket": "universityapp-fce7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994514492387:android:08a11cda404d9def999ed6",
+        "android_client_info": {
+          "package_name": "com.example.university_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994514492387-amqqldt4n8t3fl9eaapauve047t2ldqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaTNfWolql0xXKJCsJOrHgEmkibm8iOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994514492387-amqqldt4n8t3fl9eaapauve047t2ldqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
