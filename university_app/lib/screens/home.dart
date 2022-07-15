@@ -17,8 +17,8 @@ class Home extends StatelessWidget {
           padding: EdgeInsets.symmetric(horizontal: 30, vertical: 50),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: <Widget>[
+            crossAxisAlignment: CrossAxisAlignment.spaceBetween,
+            children: <Widget>[              
               Column(
                 children: <Widget>[
                   Text(
